@@ -1,1 +1,13 @@
 Git spurningar og svör
+
+1. Hvað gera eftirfarandi Linux skipanir?
+	Cd
+	Svar: Færir notanda í möppuna á undan
+	cd ~
+	Svar: Bæði færir notandan í möppuna á undan og merkir hana með „~“ merkinu til að auðveldara það sé að flakka á milli seinna
+	Ls
+	Svar: Skrifar upplýsingar um fileana
+	Pwd
+	Svar: Finnur allar upplýsingar um leiðina á þessa slóð
+	Mkdir
+	Svar: Býr til nýar möppu eða file
