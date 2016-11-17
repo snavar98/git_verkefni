@@ -11,3 +11,15 @@ Git spurningar og svör
 	Svar: Finnur allar upplýsingar um leiðina á þessa slóð
 	Mkdir
 	Svar: Býr til nýar möppu eða file
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone
+	Svar: Klónar github repository í nýja möppu
+	git log
+	Svar: Sýnir allar breytingar sem hafa verið gerðar
+	git status
+	Svar: sýnir notanda allar upplýsingar um repository og breytingar
+	git diff
+	Svar: sýnir notanda allar breytingar
+	git checkout
+	Svar: Þá getur notandi breytt um grein
