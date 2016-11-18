@@ -32,3 +32,6 @@ Git spurningar og svör
 	c) git diff commit1 commit2
 	Svar: Sýnir munin á commit1 og commit2
 
+
+4. Hvað er útgáfustýring (e.version control)?
+	Svar: Gefur kóðanum útgáfu svo að notandi viti hvað var gert fyrst og hvaða breytingar eru nýrri
