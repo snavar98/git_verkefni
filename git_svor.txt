@@ -47,3 +47,6 @@ Git spurningar og svör
 	Svar: Working directory: Er þegar notandi er að skrifa kóðann
 	Staging area: Er þegar notandi er að nota commit setninguna
 	Repository: Er geymslan sem geymir allt saman
+
+8. Hvenær er sniðugt að nota greinar (branches)? 
+	Svar: Þegar maður vill prófa nýja hluti án þess að festa þá í verkefninu, þá er gott að geyma þær í greinum
