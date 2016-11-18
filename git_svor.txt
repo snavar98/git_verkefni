@@ -35,3 +35,6 @@ Git spurningar og svör
 
 4. Hvað er útgáfustýring (e.version control)?
 	Svar: Gefur kóðanum útgáfu svo að notandi viti hvað var gert fyrst og hvaða breytingar eru nýrri
+
+5. Hverjir eru helstu kostir við að nota GIT?
+	Svar: Margir geta unnið saman að einu verkefni. Allir geta fylgst með breytingum og séð hverju nákvæmlega hverju var breytt
