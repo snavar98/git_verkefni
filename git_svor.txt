@@ -23,3 +23,12 @@ Git spurningar og svör
 	Svar: sýnir notanda allar breytingar
 	git checkout
 	Svar: Þá getur notandi breytt um grein
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff 
+	Svar: Birtir breytingar á núverandi staðsetningu
+	b) git diff --staged 
+	Svar: Birtir  breytingar á milli head og index
+	c) git diff commit1 commit2
+	Svar: Sýnir munin á commit1 og commit2
+
