@@ -38,3 +38,7 @@ Git spurningar og svör
 
 5. Hverjir eru helstu kostir við að nota GIT?
 	Svar: Margir geta unnið saman að einu verkefni. Allir geta fylgst með breytingum og séð hverju nákvæmlega hverju var breytt
+
+6. Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+	Svar: Þegar þú ert búin að gera breytingar sem virka, ekki oftar, svo
+	að það fillist ekki af breytingum sem virka ekki
